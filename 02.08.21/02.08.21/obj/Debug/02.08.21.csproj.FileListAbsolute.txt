@@ -1,0 +1,7 @@
+E:\AIUB PDFs\10th Semester\C#\Codes\02.08.21\02.08.21\bin\Debug\02.08.21.exe.config
+E:\AIUB PDFs\10th Semester\C#\Codes\02.08.21\02.08.21\bin\Debug\02.08.21.exe
+E:\AIUB PDFs\10th Semester\C#\Codes\02.08.21\02.08.21\bin\Debug\02.08.21.pdb
+E:\AIUB PDFs\10th Semester\C#\Codes\02.08.21\02.08.21\obj\Debug\02.08.21.csprojAssemblyReference.cache
+E:\AIUB PDFs\10th Semester\C#\Codes\02.08.21\02.08.21\obj\Debug\02.08.21.csproj.CoreCompileInputs.cache
+E:\AIUB PDFs\10th Semester\C#\Codes\02.08.21\02.08.21\obj\Debug\02.08.21.exe
+E:\AIUB PDFs\10th Semester\C#\Codes\02.08.21\02.08.21\obj\Debug\02.08.21.pdb

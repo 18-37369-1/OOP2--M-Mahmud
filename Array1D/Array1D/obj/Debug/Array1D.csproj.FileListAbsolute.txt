@@ -1,0 +1,14 @@
+E:\AIUB PDFs\10th Semester\C#\Code Practce\Array1D\Array1D\bin\Debug\Array1D.exe.config
+E:\AIUB PDFs\10th Semester\C#\Code Practce\Array1D\Array1D\bin\Debug\Array1D.exe
+E:\AIUB PDFs\10th Semester\C#\Code Practce\Array1D\Array1D\bin\Debug\Array1D.pdb
+E:\AIUB PDFs\10th Semester\C#\Code Practce\Array1D\Array1D\obj\Debug\Array1D.csprojAssemblyReference.cache
+E:\AIUB PDFs\10th Semester\C#\Code Practce\Array1D\Array1D\obj\Debug\Array1D.csproj.CoreCompileInputs.cache
+E:\AIUB PDFs\10th Semester\C#\Code Practce\Array1D\Array1D\obj\Debug\Array1D.exe
+E:\AIUB PDFs\10th Semester\C#\Code Practce\Array1D\Array1D\obj\Debug\Array1D.pdb
+E:\AIUB PDFs\10th Semester\C#\Codes\Array1D\Array1D\bin\Debug\Array1D.exe.config
+E:\AIUB PDFs\10th Semester\C#\Codes\Array1D\Array1D\bin\Debug\Array1D.exe
+E:\AIUB PDFs\10th Semester\C#\Codes\Array1D\Array1D\bin\Debug\Array1D.pdb
+E:\AIUB PDFs\10th Semester\C#\Codes\Array1D\Array1D\obj\Debug\Array1D.csprojAssemblyReference.cache
+E:\AIUB PDFs\10th Semester\C#\Codes\Array1D\Array1D\obj\Debug\Array1D.csproj.CoreCompileInputs.cache
+E:\AIUB PDFs\10th Semester\C#\Codes\Array1D\Array1D\obj\Debug\Array1D.exe
+E:\AIUB PDFs\10th Semester\C#\Codes\Array1D\Array1D\obj\Debug\Array1D.pdb
