@@ -1,0 +1,7 @@
+E:\AIUB PDFs\10th Semester\C#\Codes\Std_Data\Std_Data\bin\Debug\Std_Data.exe.config
+E:\AIUB PDFs\10th Semester\C#\Codes\Std_Data\Std_Data\bin\Debug\Std_Data.exe
+E:\AIUB PDFs\10th Semester\C#\Codes\Std_Data\Std_Data\bin\Debug\Std_Data.pdb
+E:\AIUB PDFs\10th Semester\C#\Codes\Std_Data\Std_Data\obj\Debug\Std_Data.csprojAssemblyReference.cache
+E:\AIUB PDFs\10th Semester\C#\Codes\Std_Data\Std_Data\obj\Debug\Std_Data.csproj.CoreCompileInputs.cache
+E:\AIUB PDFs\10th Semester\C#\Codes\Std_Data\Std_Data\obj\Debug\Std_Data.exe
+E:\AIUB PDFs\10th Semester\C#\Codes\Std_Data\Std_Data\obj\Debug\Std_Data.pdb
