@@ -1,0 +1,10 @@
+E:\AIUB PDFs\10th Semester\C#\New folder (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\AIUB PDFs\10th Semester\C#\New folder (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\AIUB PDFs\10th Semester\C#\New folder (3)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\AIUB PDFs\10th Semester\C#\New folder (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\AIUB PDFs\10th Semester\C#\New folder (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\AIUB PDFs\10th Semester\C#\New folder (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\AIUB PDFs\10th Semester\C#\New folder (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\AIUB PDFs\10th Semester\C#\New folder (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\AIUB PDFs\10th Semester\C#\New folder (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\AIUB PDFs\10th Semester\C#\New folder (3)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
